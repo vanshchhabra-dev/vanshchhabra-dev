@@ -7,6 +7,7 @@ I may come from a hardware background, but I’ve chosen a future-proof path by 
 
 
 💻 Tech Stack & Skills I'm Building:
+
 🔹 Python, C++, JavaScript
 
 🔹 Data Structures & Algorithms (LeetCode 300+ problems)
@@ -24,6 +25,7 @@ I may come from a hardware background, but I’ve chosen a future-proof path by 
 
 
 🚀 Projects & Contributions:
+
 Building unique, real-world projects across AI, full-stack, and cloud
 
 Hosting and deploying apps on cloud platforms like AWS
@@ -33,6 +35,7 @@ Writing clean, production-level code with proper version control
 
 
 🎯 Career Vision:
+
 To become a highly skilled software + AI/cloud engineer
 
 Contribute to impactful products in top tech companies
@@ -42,6 +45,7 @@ Open to remote, global, and high-impact roles in India or Europe
 
 
 📘 What I Believe In:
+
 Learning in public (GitHub, LinkedIn)
 
 Solving problems, not just writing code
@@ -51,6 +55,7 @@ Continuous growth, clean habits, and community learning
 
 
 📌 Currently Doing:
+
 Mastering Python, DSA, AI, and Cloud
 
 Building a strong GitHub profile with real projects
