@@ -26,7 +26,7 @@
 ---
 
 ### 📌 Follow My Work:
-- 🔗 [LinkedIn](www.linkedin.com/in/vansh-chhabra-959024287)
+- 🔗 [LinkedIn](🔗 [LinkedIn](https://www.linkedin.com/in/vansh-chhabra-959024287)
 - 🔗 [GitHub](https://github.com/vanshchhabra-dev)
 - 🌐 Portfolio: Coming Soon
 
